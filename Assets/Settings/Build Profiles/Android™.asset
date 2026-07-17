@@ -17,7 +17,7 @@ MonoBehaviour:
   m_Subtarget: 0
   m_PlatformId: b9b35072a6f44c2e863f17467ea3dc13
   m_PlatformBuildProfile:
-    rid: 2064211431682473987
+    rid: 4745420013900398592
   m_ActivePlatformGuid: 
   m_AdditionalPlatformBuildSettings: []
   m_OverrideGlobalSceneList: 0
@@ -30,7 +30,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 2064211431682473987
+    - rid: 4745420013900398592
       type: {class: AndroidPlatformBuildSettings, ns: UnityEditor.Android, asm: UnityEditor.Android.Extensions}
       data:
         m_Development: 0
@@ -53,7 +53,7 @@ MonoBehaviour:
         m_ExportAsGoogleAndroidProject: 0
         m_DebugSymbolLevel: 1
         m_DebugSymbolFormat: 5
-        m_CurrentDeploymentTargetId: __builtin__target_default
+        m_CurrentDeploymentTargetId: wcdecaof7hd6qszp
         m_BuildType: 2
         m_LinkTimeOptimization: 0
         m_BuildAppBundle: 0
